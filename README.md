@@ -7,3 +7,4 @@
 | 3 | Count Elements With Maximum Frequency | Leetcode | <a href="https://leetcode.com/problems/count-elements-with-maximum-frequency/">Link</a> | [max_freq.java](max_freq.java) | ❌ |
 | 4 | Rearrange array in increasing-decreasing order | GFG | <a href="https://www.geeksforgeeks.org/problems/sort-first-half-in-ascending-and-second-half-in-descending1714/1">Link</a> | [arrange_arr.java](arrange_arr.java) | ❌ |
 | 5 | Rotate array by K elements | Codestudio | <a href="https://www.naukri.com/code360/problems/rotate-array_1230543">Link</a> | [rotatek.java](rotatek.java) | ❌ |
+| 6 | Find The Median | GFG | <a href="https://www.geeksforgeeks.org/problems/find-the-median0527/1">Link</a> | [median.java](median.java) | ❌ |

@@ -8,3 +8,5 @@
 | 4 | Rearrange array in increasing-decreasing order | GFG | <a href="https://www.geeksforgeeks.org/problems/sort-first-half-in-ascending-and-second-half-in-descending1714/1">Link</a> | [arrange_arr.java](arrange_arr.java) | ❌ |
 | 5 | Rotate array by K elements | Codestudio | <a href="https://www.naukri.com/code360/problems/rotate-array_1230543">Link</a> | [rotatek.java](rotatek.java) | ❌ |
 | 6 | Find The Median | GFG | <a href="https://www.geeksforgeeks.org/problems/find-the-median0527/1">Link</a> | [median.java](median.java) | ❌ |
+| 7 | Remove Duplicates In Array | Codestudio | <a href="https://www.naukri.com/code360/problems/remove-duplicates-from-sorted-array_1102307">Link</a> | [remove_duplicate.java](remove_duplicate.java) | ❌ |
+| 8 | Find All Duplicates In An Array | Leetcode | <a href="https://leetcode.com/problems/find-all-duplicates-in-an-array/">Link</a> | [all_duplicate.java](all_duplicate.java) | ❌ |

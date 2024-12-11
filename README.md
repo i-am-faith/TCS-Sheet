@@ -19,3 +19,5 @@
 | 15 | Prime Number | Codestudio | <a href="https://www.naukri.com/code360/problems/prime-number_1118113">Link</a> | [prime.java](prime.java) | ❌ |
 | 16 | Sum In One Iteration | Codestudio | <a href="https://www.naukri.com/code360/problems/one-iteration_3116723">Link</a> | [sum_one.java](sum_one.java) | ❌ |
 | 17 | Find Duplicates In Array (Set) | Codestudio | <a href="https://www.naukri.com/code360/problems/find-duplicates-in-array_1071935">Link</a> | [dupli_set.java](dupli_set.java) | ❌ |
+| 18 | Find Peak Element | Codestudio | <a href="https://www.naukri.com/code360/problems/find-peak-element_1081482">Link</a> | [peak.java](peak.java) | ❌ |
+| 19 | Next Greater Element | Codestudio | <a href="https://www.naukri.com/code360/problems/next-greater-element_670312">Link</a> | [nxt_greater.java](nxt_greater.java) | ❌ |

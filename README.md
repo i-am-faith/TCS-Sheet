@@ -21,3 +21,5 @@
 | 17 | Find Duplicates In Array (Set) | Codestudio | <a href="https://www.naukri.com/code360/problems/find-duplicates-in-array_1071935">Link</a> | [dupli_set.java](dupli_set.java) | ❌ |
 | 18 | Find Peak Element | Codestudio | <a href="https://www.naukri.com/code360/problems/find-peak-element_1081482">Link</a> | [peak.java](peak.java) | ❌ |
 | 19 | Next Greater Element | Codestudio | <a href="https://www.naukri.com/code360/problems/next-greater-element_670312">Link</a> | [nxt_greater.java](nxt_greater.java) | ❌ |
+| 20 | Position Of First One | Codestudio | <a href="https://www.naukri.com/code360/problems/position-of-first-one_696445">Link</a> | [first_one.java](first_one.java) |
+| 21 | 

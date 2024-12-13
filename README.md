@@ -24,3 +24,4 @@
 | 20 | Position Of First One | Codestudio | <a href="https://www.naukri.com/code360/problems/position-of-first-one_696445">Link</a> | [first_one.java](first_one.java) | ❌ |
 | 21 | Count Vowels, Consonent and Spaces | Codestudio | <a href="https://www.naukri.com/code360/problems/count-vowels-consonants-and-spaces_5026361">Link</a> | [count_vcs.java](count_vcs.java) | ❌ |
 | 22 | Unique Elements | Codestudio | <a href="https://www.naukri.com/code360/problems/remove-duplicates_920325">Link</a> | [unique.java](unique.java) | ❌ |
+| 23 | Search Queries In Array | Codestudio | <a href="https://www.naukri.com/code360/problems/binary-search_975480">Link</a> | [search_query.java](search_query.java) | ❌ |

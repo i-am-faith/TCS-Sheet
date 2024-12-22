@@ -27,3 +27,4 @@
 | 23 | Search Queries In Array | Codestudio | <a href="https://www.naukri.com/code360/problems/binary-search_975480">Link</a> | [search_query.java](search_query.java) | ❌ |
 | 24 | Two Sum In Pair | Codestudio | <a href="https://www.naukri.com/code360/problems/two-sum_839653">Link</a> | [two_sum_pair.java](two_sum_pair.java) | ❌ |
 | 25 | Heap Sort | Codestudio | <a href="https://www.naukri.com/code360/problems/heap-sort_1262153">Link</a> | [heap_sort.java](heap_sort.java) | ❌ |
+| 26 | Reverse A String | Leetcode | <a href="https://leetcode.com/problems/reverse-string/">Link</a> | [reverse_string.java](reverse_string.java) | ❌ |

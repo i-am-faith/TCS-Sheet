@@ -29,3 +29,4 @@
 | 25 | Heap Sort | Codestudio | <a href="https://www.naukri.com/code360/problems/heap-sort_1262153">Link</a> | [heap_sort.java](heap_sort.java) | ❌ |
 | 26 | Reverse A String | Leetcode | <a href="https://leetcode.com/problems/reverse-string/">Link</a> | [reverse_string.java](reverse_string.java) | ❌ |
 | 27 | Valid Palindrome String | Leetcode | <a href="https://leetcode.com/problems/valid-palindrome">Link</a> | [palindrome_str.java](palindrome_str.java) | ❌ |
+| 28 | Reverse Words In a String | Leetcode | <a href="https://leetcode.com/problems/reverse-words-in-a-string/">Link</a> | [rev_word.java](rev_word.java) | ❌ |

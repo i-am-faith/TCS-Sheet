@@ -31,3 +31,4 @@
 | 27 | Valid Palindrome String | Leetcode | <a href="https://leetcode.com/problems/valid-palindrome">Link</a> | [palindrome_str.java](palindrome_str.java) | ❌ |
 | 28 | Reverse Words In a String | Leetcode | <a href="https://leetcode.com/problems/reverse-words-in-a-string/">Link</a> | [rev_word.java](rev_word.java) | ❌ |
 | 29 | Count Consonants In A String | Codestudio | <a href="https://www.naukri.com/code360/problems/count-consonants-in-a-string_893281">Link</a> | [consonant.java](consonant.java) | ❌ |
+| 30 | Encode The String | Codestudio | <a href="https://www.naukri.com/code360/problems/encode-the-string_3651409">Link</a> | [encoded.java](encoded.java) | ❌ |

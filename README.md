@@ -33,3 +33,4 @@
 | 29 | Count Consonants In A String | Codestudio | <a href="https://www.naukri.com/code360/problems/count-consonants-in-a-string_893281">Link</a> | [consonant.java](consonant.java) | ❌ |
 | 30 | Encode The String | Codestudio | <a href="https://www.naukri.com/code360/problems/encode-the-string_3651409">Link</a> | [encoded.java](encoded.java) | ❌ |
 | 31 | Add binary strings | Codestudio | <a href="https://www.naukri.com/code360/problems/add-binary-strings_893059">Link</a> | [add_binary_string.java](add_binary_string.java) | ❌ |
+| 32 | Mirror String | Codestudio | <a href="https://www.naukri.com/code360/problems/mirror-string_1104722">Link</a> | [mirror_string.java](mirror_string.java) | ❌ |

@@ -36,3 +36,4 @@
 | 32 | Mirror String | Codestudio | <a href="https://www.naukri.com/code360/problems/mirror-string_1104722">Link</a> | [mirror_string.java](mirror_string.java) | ❌ |
 | 33 | Swap Number Without Temp Var | Codestudio | <a href="https://www.naukri.com/code360/problems/swap-number-without-temporary-variable_893054">Link</a> | [swap_without_temp.java](swap_without_temp.java) | ❌ |
 | 34 | Sort 0 1 | Codestudio | <a href="https://www.naukri.com/code360/problems/sort-0-1_624379">Link</a> | [sort01.java](sort01.java) | ❌ |
+| 35 | Maximum Subarray Sum | Codestudio | <a href="https://www.naukri.com/code360/problems/maximum-subarray-sum_628288">Link</a> | [max_subarr.java](max_subarr.java) | ❌ |

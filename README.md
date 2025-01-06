@@ -37,3 +37,6 @@
 | 33 | Swap Number Without Temp Var | Codestudio | <a href="https://www.naukri.com/code360/problems/swap-number-without-temporary-variable_893054">Link</a> | [swap_without_temp.java](swap_without_temp.java) | ❌ |
 | 34 | Sort 0 1 | Codestudio | <a href="https://www.naukri.com/code360/problems/sort-0-1_624379">Link</a> | [sort01.java](sort01.java) | ❌ |
 | 35 | Maximum Subarray Sum | Codestudio | <a href="https://www.naukri.com/code360/problems/maximum-subarray-sum_628288">Link</a> | [max_subarr.java](max_subarr.java) | ❌ |
+| 36 |  Maximum Subarray Sum Negative | Codestudio | <a href="https://www.naukri.com/code360/problems/maximum-subarray-sum_630526">Link</a> | [max_neg_subarr.java](max_neg_subarr.java) | ❌ |
+| 37 | Count Smaller or Equal elements | Codestudio | <a href="https://www.naukri.com/code360/problems/count-smaller-or-equal-elements-in-array_1072983">Link</a> | [cnt_small_eql.java](cnt_small_eql.java) | ❌ |
+| 38 | Reverse String Word Wise | Codestudio | <a href="https://www.naukri.com/code360/problems/reverse-string-word-wise_1262348">Link</a> | [rev_words.java](rev_words.java) | ❌ |

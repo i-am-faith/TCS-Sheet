@@ -40,3 +40,4 @@
 | 36 |  Maximum Subarray Sum Negative | Codestudio | <a href="https://www.naukri.com/code360/problems/maximum-subarray-sum_630526">Link</a> | [max_neg_subarr.java](max_neg_subarr.java) | ❌ |
 | 37 | Count Smaller or Equal elements | Codestudio | <a href="https://www.naukri.com/code360/problems/count-smaller-or-equal-elements-in-array_1072983">Link</a> | [cnt_small_eql.java](cnt_small_eql.java) | ❌ |
 | 38 | Reverse String Word Wise | Codestudio | <a href="https://www.naukri.com/code360/problems/reverse-string-word-wise_1262348">Link</a> | [rev_words.java](rev_words.java) | ❌ |
+| 39 | Square Root of a number | Codestudio | <a href="https://www.naukri.com/code360/problems/square-root-integral_893351">Link</a> | [sqrt.java](sqrt.java) | ❌ |

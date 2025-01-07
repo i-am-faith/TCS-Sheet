@@ -41,3 +41,7 @@
 | 37 | Count Smaller or Equal elements | Codestudio | <a href="https://www.naukri.com/code360/problems/count-smaller-or-equal-elements-in-array_1072983">Link</a> | [cnt_small_eql.java](cnt_small_eql.java) | ❌ |
 | 38 | Reverse String Word Wise | Codestudio | <a href="https://www.naukri.com/code360/problems/reverse-string-word-wise_1262348">Link</a> | [rev_words.java](rev_words.java) | ❌ |
 | 39 | Square Root of a number | Codestudio | <a href="https://www.naukri.com/code360/problems/square-root-integral_893351">Link</a> | [sqrt.java](sqrt.java) | ❌ |
+| 40 | K Largest Element | Codestudio | <a href="https://www.naukri.com/code360/problems/k-largest-element_1062624">Link</a> | [k_largest.java](k_largest.java) | ❌ |
+| 41 | Funny Divisors | Codestudio | <a href="https://www.naukri.com/code360/problems/multiples-of-2-and-3_893308">Link</a> | [funny_divisor.java](funny_divisor.java) | ❌ |
+| 42 | Merge Two Sorted Arrays | Codestudio | <a href="https://www.naukri.com/code360/problems/ninja-and-sorted-arrays_1214628">Link</a> | [merge2.java](merge2.java) | ❌ |
+| 43 | Remove Consecutive Characters | Codestudio | <a href="https://www.naukri.com/code360/problems/remove-consecutive-duplicates_893195">Link</a> | [remove_duplicate_char.java](remove_duplicate_char.java) | ❌ |

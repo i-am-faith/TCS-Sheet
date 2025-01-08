@@ -45,3 +45,6 @@
 | 41 | Funny Divisors | Codestudio | <a href="https://www.naukri.com/code360/problems/multiples-of-2-and-3_893308">Link</a> | [funny_divisor.java](funny_divisor.java) | ❌ |
 | 42 | Merge Two Sorted Arrays | Codestudio | <a href="https://www.naukri.com/code360/problems/ninja-and-sorted-arrays_1214628">Link</a> | [merge2.java](merge2.java) | ❌ |
 | 43 | Remove Consecutive Characters | Codestudio | <a href="https://www.naukri.com/code360/problems/remove-consecutive-duplicates_893195">Link</a> | [remove_duplicate_char.java](remove_duplicate_char.java) | ❌ |
+| 44 | Merge Two Sorted Linked Lists | Codestudio | <a href="https://www.naukri.com/code360/problems/merge-two-sorted-linked-lists_800332">Link</a> | [merge_ll.java](merge_ll.java) | ❌ |
+| 45 | Reverse Linked List | Codestudio | <a href="https://www.naukri.com/code360/problems/reverse-the-singly-linked-list_799897">Link</a> | [rev_ll.java](rev_ll.java) | ❌ |
+| 46 | Middle Of Linked List | Codestudio | <a href="https://www.naukri.com/code360/problems/middle-of-linked-list_973250">Link</a> | [middle_ll.java](middle_ll.java) | ❌ |

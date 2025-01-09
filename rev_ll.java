@@ -22,10 +22,17 @@ public class Solution
 		{
 			return head;
 		}
-		LinkedListNode newHead = reverseLinkedList(head.next);
-		LinkedListNode front = head.next;
-		front.next = head;
-		head.next = null;
-		return newHead;
+		LinkedListNode temp=head;
+        LinkedListNode prev =null;
+        LinkedListNode next=null;
+		
+        while(temp!=null){
+            LinkedListNode front =temp.next;
+            temp.next=prev;
+            prev=temp;
+            temp=front;
+        }
+
+        return prev;
     }
 }

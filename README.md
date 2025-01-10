@@ -49,3 +49,4 @@
 | 45 | Reverse Linked List | Codestudio | <a href="https://www.naukri.com/code360/problems/reverse-the-singly-linked-list_799897">Link</a> | [rev_ll.java](rev_ll.java) | ❌ |
 | 46 | Middle Of Linked List | Codestudio | <a href="https://www.naukri.com/code360/problems/middle-of-linked-list_973250">Link</a> | [middle_ll.java](middle_ll.java) | ❌ |
 | 47 | Inorder Traversal Of A Tree | Codestudio | <a href="https://www.naukri.com/code360/problems/inorder-traversal_3839605">Link</a> | [inorder.java](inorder.java) | ❌ |
+| 48 | Maximum Average Subarray Sliding Window | Leetcode | <a href="https://leetcode.com/problems/maximum-average-subarray-i/">Link</a> | [maximum_average.java](maximum_average.java) | ❌ |

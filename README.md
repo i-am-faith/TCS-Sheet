@@ -50,3 +50,7 @@
 | 46 | Middle Of Linked List | Codestudio | <a href="https://www.naukri.com/code360/problems/middle-of-linked-list_973250">Link</a> | [middle_ll.java](middle_ll.java) | ❌ |
 | 47 | Inorder Traversal Of A Tree | Codestudio | <a href="https://www.naukri.com/code360/problems/inorder-traversal_3839605">Link</a> | [inorder.java](inorder.java) | ❌ |
 | 48 | Maximum Average Subarray Sliding Window | Leetcode | <a href="https://leetcode.com/problems/maximum-average-subarray-i/">Link</a> | [maximum_average.java](maximum_average.java) | ❌ |
+| 49 | Positive Negative Pair | Codestudio | <a href="https://www.naukri.com/code360/problems/positive-negative-pair_981311">Link</a> | [pos_neg_pair.java](pos_neg_pair.java) | ❌ |
+| 50 | Square root (decimal) | Codestudio | <a href="https://www.naukri.com/code360/problems/square-root-decimal_1095655">Link</a> | [sqrt_decimal.java](sqrt_decimal.java) | ❌ |
+| 51 | Minimize The Maximum | Codestudio | <a href="https://www.naukri.com/code360/problems/minimize-the-maximum_696194">Link</a> | [minimize_maximum.java](minimize_maximum.java) | ❌ |
+| 52 | N-th Fibonacci Number Using DP | Codestudio | <a href="https://www.naukri.com/code360/problems/nth-fibonacci-number_1115780">Link</a> | [nth_fibonacci.java](nth_fibonacci.java) | ❌ |

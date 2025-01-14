@@ -57,3 +57,4 @@
 | 53 | Factorial of a Number | Codestudio | <a href="https://www.naukri.com/code360/problems/factorial-of-a-number_1115779">Link</a> | [factorial.java](factorial.java) | ❌ |
 | 54 | Factorial of a Number Using DP | Codestudio | <a href="https://www.naukri.com/code360/problems/factorial_975273">Link</a> | [factorial_dp.java](factorial_dp.java) | ❌ |
 | 55 | Sum of even & odd | Codestudio | <a href="https://www.naukri.com/code360/problems/sum-of-even-odd_893199">Link</a> | [sum_even_odd.java](sum_even_odd.java) | ❌ |
+| 56 | Number And Digits | Codestudio | <a href="https://www.naukri.com/code360/problems/number-and-digits_975269">Link</a> | [number_digits.java](number_digits.java) | ❌ |

@@ -58,3 +58,4 @@
 | 54 | Factorial of a Number Using DP | Codestudio | <a href="https://www.naukri.com/code360/problems/factorial_975273">Link</a> | [factorial_dp.java](factorial_dp.java) | ❌ |
 | 55 | Sum of even & odd | Codestudio | <a href="https://www.naukri.com/code360/problems/sum-of-even-odd_893199">Link</a> | [sum_even_odd.java](sum_even_odd.java) | ❌ |
 | 56 | Number And Digits | Codestudio | <a href="https://www.naukri.com/code360/problems/number-and-digits_975269">Link</a> | [number_digits.java](number_digits.java) | ❌ |
+| 57 | Valid Pairs | Codestudio | <a href="https://www.naukri.com/code360/problems/valid-pairs_762945">Link</a> | [valid_pairs.java](valid_pairs.java) | ❌ |

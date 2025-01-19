@@ -59,3 +59,4 @@
 | 55 | Sum of even & odd | Codestudio | <a href="https://www.naukri.com/code360/problems/sum-of-even-odd_893199">Link</a> | [sum_even_odd.java](sum_even_odd.java) | ❌ |
 | 56 | Number And Digits | Codestudio | <a href="https://www.naukri.com/code360/problems/number-and-digits_975269">Link</a> | [number_digits.java](number_digits.java) | ❌ |
 | 57 | Valid Pairs | Codestudio | <a href="https://www.naukri.com/code360/problems/valid-pairs_762945">Link</a> | [valid_pairs.java](valid_pairs.java) | ❌ |
+| 58 | Palindrome Linked List | Codestudio | <a href="https://www.naukri.com/code360/problems/check-if-linked-list-is-palindrome_985248">Link</a> | [palindrome_ll.java](palindrome_ll.java) | ❌ |

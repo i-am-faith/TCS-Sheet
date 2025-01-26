@@ -61,3 +61,4 @@
 | 57 | Valid Pairs | Codestudio | <a href="https://www.naukri.com/code360/problems/valid-pairs_762945">Link</a> | [valid_pairs.java](valid_pairs.java) | ❌ |
 | 58 | Palindrome Linked List | Codestudio | <a href="https://www.naukri.com/code360/problems/check-if-linked-list-is-palindrome_985248">Link</a> | [palindrome_ll.java](palindrome_ll.java) | ❌ |
 | 59 | Greatest Common Divisor | Codestudio | <a href="https://www.naukri.com/code360/problems/gcd_975284">Link</a> | [gcd.java](gcd.java) | ❌ |
+| 60 | Valid Parentheses | Leetcode | <a href="https://leetcode.com/problems/valid-parentheses/">Link</a> | [valid_parenthese.java](valid_parenthese.java) | ❌ |

@@ -65,3 +65,4 @@
 | 61 | Non - Repeating Numbers | Codestudio | <a href="https://www.naukri.com/code360/problems/unique-pair-using-bits_972997">Link</a> | [non-repeat.java](non-repeat.java) | ❌ |
 | 62 | Binary Representation is Palindrome | Codestudio | <a href="https://www.naukri.com/code360/problems/check-palindrome_920555">Link</a> | [binary_palindrome.java](binary_palindrome.java) | ❌ |
 | 63 | Guess The Number API | Codestudio | <a href="https://www.naukri.com/code360/problems/guess-the-number_3744732">Link</a> | [guess_number_api.java](guess_number_api.java) | ❌ |
+| 64 | Area of a Rectangle OOPS | Codestudio | <a href="https://www.naukri.com/code360/problems/area-of-rectangle_1172156">Link</a> | [area_oops.java](area_oops.java) | ❌ |

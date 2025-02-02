@@ -66,3 +66,4 @@
 | 62 | Binary Representation is Palindrome | Codestudio | <a href="https://www.naukri.com/code360/problems/check-palindrome_920555">Link</a> | [binary_palindrome.java](binary_palindrome.java) | ❌ |
 | 63 | Guess The Number API | Codestudio | <a href="https://www.naukri.com/code360/problems/guess-the-number_3744732">Link</a> | [guess_number_api.java](guess_number_api.java) | ❌ |
 | 64 | Area of a Rectangle OOPS | Codestudio | <a href="https://www.naukri.com/code360/problems/area-of-rectangle_1172156">Link</a> | [area_oops.java](area_oops.java) | ❌ |
+| 65 | Pascal's Triangle | Codestudio | <a href="https://www.naukri.com/code360/problems/pascal-s-triangle_1089580">Link</a> | [pascals.java](pascals.java) | ❌ |

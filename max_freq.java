@@ -25,3 +25,25 @@ class Solution {
         return sum;
     }
 }
+
+
+/* 
+--------------------Python--------------------------------------------------
+class Solution:
+    def maxFrequencyElements(self, nums: List[int]) -> int:
+        freq = {}
+        count = 0
+        for num in nums:
+            if num in freq:
+                freq[num] += 1
+            else:
+                freq[num] = 1
+        
+        maxfreq = max(freq.values())
+
+        for cnt in freq.values():
+            if cnt == maxfreq:
+                count += cnt
+
+        return count
+*/

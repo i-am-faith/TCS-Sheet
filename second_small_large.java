@@ -10,3 +10,16 @@ public class Solution {
         return op;
     }
 }
+
+/*
+
+-------------Python------------------------------------
+def getSecondOrderElements(n: int,  a: [int]) -> [int]:
+    a.sort()
+    list=[]
+    list.append(a[-2])
+    list.append(a[1])
+    return list
+
+
+ */

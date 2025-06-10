@@ -13,3 +13,19 @@ class Solution {
         return arrl;
     }
 }
+
+
+/*
+------------------------------Python--------------------------------------
+class Solution:
+    def findDuplicates(self, nums: List[int]) -> List[int]:
+        lst = []
+        n = len(nums)
+        nums.sort()
+        for i in range(0,n-1):
+            if nums[i] == nums[i+1]:
+                lst.append(nums[i])
+
+        return lst
+
+*/

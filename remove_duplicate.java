@@ -11,3 +11,16 @@ public class Solution {
         return count;
     }
 }
+
+
+/*
+--------------------------Python----------------------------------------------
+def removeDuplicates(arr,n):
+    count = n
+    for i in range(0,n-1):
+        if arr[i] == arr[i+1]:
+            count -= 1
+
+    return count
+
+*/

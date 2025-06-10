@@ -29,3 +29,26 @@ class Solution {
         return fin;
     }
 }
+
+/* 
+-------------------Python-----------------------------------------------------
+#User function Template for python3
+
+class Solution:
+    def customSort(self, arr):
+        lst1 = []
+        lst2 = []
+        n = len(arr)
+        
+        for i in range(0,n//2):
+            lst1.append(arr[i])
+            
+        for i in range(n//2,n):
+            lst2.append(arr[i])
+            
+        lst1.sort()
+        lst2.sort(reverse = True)
+        lst1.extend(lst2)
+        return lst1
+
+*/

@@ -20,3 +20,24 @@ public class Solution {
         return res;
     }
 }
+
+
+/*
+--------------------------------------Python-----------------------------------
+def rotateArray(arr: list, k: int) -> list:
+    n = len(arr)
+    k = k % n
+    lst = []
+
+    # First append right elements
+    for i in range(k, n):
+        lst.append(arr[i])
+
+    # Then append left elements
+    for i in range(0, k):
+        lst.append(arr[i])
+
+    return lst
+
+
+*/

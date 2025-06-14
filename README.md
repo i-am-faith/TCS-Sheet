@@ -13,7 +13,7 @@
 | 9 | Sum or Product | Codestudio | <a href="https://www.naukri.com/code360/problems/sum-or-product_920478?">Link</a> | [sum_prod.java](sum_prod.java) | ✅ |
 | 10 | Sort 012 | Codestudio | <a href="https://www.naukri.com/code360/problems/sort-0-1-2_631055">Link</a> | [sort012.java](sort012.java) | ✅ |
 | 11 | Swap Two Numbers | Codestudio | <a href="https://www.naukri.com/code360/problems/swap-two-numbers_1112577">Link</a> | [swap2.java](swap2.java) | ✅ |
-| 12 | Find Duplicates Using HasMap | Codestudio | <a href="https://www.naukri.com/code360/problems/find-duplicate-in-array_1112602">Link</a> | [dupli_map.java](dupli_map.java) | ❌ |
+| 12 | Find Duplicates Using HashMap | Codestudio | <a href="https://www.naukri.com/code360/problems/find-duplicate-in-array_1112602">Link</a> | [dupli_map.java](dupli_map.java) | ✅ |
 | 13 | Search In Rotated Sorted Array | Codestudio | <a href="https://www.naukri.com/code360/problems/search-in-rotated-sorted-array_1082554">Link</a> | [search_rotate.java](search_rotate.java) | ❌ |
 | 14 | Search Insert Position | Codestudio | <a href="https://www.naukri.com/code360/problems/algorithm-to-find-best-insert-position-in-sorted-array_839813">Link</a> | [search_insert.java](search_insert.java) | ❌ |
 | 15 | Prime Number | Codestudio | <a href="https://www.naukri.com/code360/problems/prime-number_1118113">Link</a> | [prime.java](prime.java) | ❌ |

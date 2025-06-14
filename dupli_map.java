@@ -15,3 +15,27 @@ public class Solution{
         return -1;
     }
 }
+
+
+/*
+---------------------------------Python-----------------------------------------------
+from sys import *
+from collections import *
+from math import *
+
+def findDuplicate(arr:list, n:int):
+    freq = {}
+    for num in arr:
+        if num in freq:
+            freq[num] += 1
+        else:
+            freq[num] = 1
+
+    for i in arr:
+        if freq[i] > 1:
+            return i 
+
+    return -1
+
+
+*/

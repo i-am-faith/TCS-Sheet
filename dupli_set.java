@@ -20,3 +20,28 @@ public class Solution {
         return arrl;
     }
 };
+
+
+/*
+----------------------------------------Python----------------------------------------
+from os import *
+from sys import *
+from collections import *
+from math import *
+
+def findDuplicates(arr, n):
+    freq = {}
+    lst = []
+    for num in arr:
+        if num in freq:
+            freq[num] += 1
+        else:
+            freq[num] = 1
+
+    for key,value in freq.items():
+        if value > 1:
+            lst.append(key)
+
+    return lst
+
+*/
